@@ -1,0 +1,9 @@
+dimension,weight,question
+Intent coverage,20,Does the page answer the primary and adjacent user intents?
+Entity clarity,15,"Are people, products, concepts, and relationships explicit?"
+Answer structure,15,"Are important answers concise, extractable, and well headed?"
+Evidence & sourcing,15,Are factual claims supported by credible sources?
+FAQ coverage,10,Are likely follow-up questions answered?
+Structured data,10,Is relevant schema/structured data implemented correctly?
+Content freshness,10,Is time-sensitive information maintained?
+Internal linking,5,Does the page connect clearly to supporting topic clusters?
